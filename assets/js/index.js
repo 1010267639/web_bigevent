@@ -45,4 +45,7 @@ function renderAvatar(user) {
         let first = name[0].toUpperCase()
         $('.text-avatar').html(first).show()
     }
+
+
+
 }
